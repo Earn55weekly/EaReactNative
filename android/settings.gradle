@@ -5,6 +5,3 @@ extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autoli
 // If using .gradle.kts files:
 // extensions.configure<com.facebook.react.ReactSettingsExtension> { autolinkLibrariesFromCommand() }
 includeBuild("../node_modules/@react-native/gradle-plugin")
-
-// Include your existing Gradle modules here.
-// include(":app")
